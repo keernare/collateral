@@ -1,0 +1,32 @@
+[
+  {
+    "accountId": "E1",
+    "positions": [
+      {
+        "assetId": "S1",
+        "quantity": 100
+      },
+      {
+        "assetId": "S3",
+        "quantity": 100
+      },
+      {
+        "assetId": "S4",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+      "accountId": "E2",
+      "positions": [
+        {
+          "assetId": "S2",
+          "quantity": 100
+        },
+        {
+          "assetId": "S5",
+          "quantity": 100
+        }
+      ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "assetId": "S1",
+    "price": 50.5
+  },
+  {
+    "assetId": "S2",
+    "price": 20.2
+  },
+  {
+    "assetId": "S3",
+    "price": 10.4
+  },
+  {
+    "assetId": "S4",
+    "price": 15.5
+  }
+]
